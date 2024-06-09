@@ -1,2 +1,2 @@
 # Geometry
-Computational Geometry lab
+Computational Geometry labs
